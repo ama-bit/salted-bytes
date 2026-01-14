@@ -1,4 +1,4 @@
-# Salty Hash
+# SaltedBytes
 
 This is my personal repository.
 
